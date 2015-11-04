@@ -3,3 +3,5 @@ olá mundo!!!
 Segunda linha
 
 Testando modificação no branch MASTER
+
+TEstando copia automatica --bare
